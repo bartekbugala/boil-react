@@ -3,4 +3,4 @@ import { render } from 'react-dom';
 
 import HelloReact from './HelloReact';
 
-render(<HelloReact />, document.getElementById('rodo-app'));
+render(<HelloReact />, document.getElementById('react-app'));
